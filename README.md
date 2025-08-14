@@ -18,5 +18,6 @@ It allows you to create QR codes instantly for any text or URL you enter.
 - **JavaScript** – QR code generation logic.
 
 ---
+<img width="200" height="170" src="image/Screenshot (72).png">
 
 
